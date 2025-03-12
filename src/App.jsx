@@ -5,7 +5,7 @@ import Pricing from "./pages/Pricing";
 import Login from "./pages/Login";
 import AppLayout from "./pages/AppLayout";
 import NotFoundPage from "./pages/NotFoundPage";
-
+import "./index.css";
 function App() {
   return (
     <BrowserRouter>
