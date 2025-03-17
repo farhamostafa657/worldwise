@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,79 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "1a58",
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "emoji": "EG",
+      "notes": "",
+      "date": "2025-03-17T17:10:41.773Z",
+      "position": {
+        "lat": "26.02181804559648",
+        "lng": "29.025878906250004"
+      }
+    },
+    {
+      "id": "7903",
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "emoji": "EG",
+      "notes": "",
+      "date": "2025-03-17T17:12:12.304Z",
+      "position": {
+        "lat": "24.86764285465076",
+        "lng": "29.179687500000004"
+      }
+    },
+    {
+      "id": "42f2",
+      "cityName": "Afif",
+      "country": "Saudi Arabia",
+      "emoji": "SA",
+      "notes": "",
+      "date": "2025-03-17T17:12:23.197Z",
+      "position": {
+        "lat": "22.946046028553937",
+        "lng": "43.41796875000001"
+      }
+    },
+    {
+      "id": "fbe0",
+      "cityName": "Murzuk",
+      "country": "Libya",
+      "emoji": "LY",
+      "notes": "dddddd",
+      "date": "2025-03-17T17:22:18.294Z",
+      "position": {
+        "lat": "25.449011008616175",
+        "lng": "18.017578125000004"
+      }
+    },
+    {
+      "id": "c6b5",
+      "cityName": "Ajdabiya",
+      "country": "Libya",
+      "emoji": "LY",
+      "notes": "",
+      "date": "2025-03-17T17:22:31.507Z",
+      "position": {
+        "lat": "28.77203264753372",
+        "lng": "21.181640625000004"
+      }
+    },
+    {
+      "id": "e308",
+      "cityName": "Marsa Maţruḩ",
+      "country": "Egypt",
+      "emoji": "EG",
+      "notes": "",
+      "date": "2025-03-17T17:22:40.375Z",
+      "position": {
+        "lat": "29.349888139000008",
+        "lng": "26.894531250000004"
+      }
     }
   ]
 }
