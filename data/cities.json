@@ -1,39 +1,27 @@
 {
   "cities": [
     {
-      "id": "1809",
-      "cityName": "Giza",
-      "country": "Egypt",
-      "emoji": "EG",
+      "id": "a8d1",
+      "cityName": "Al Madam",
+      "country": "United Arab Emirates (the)",
+      "emoji": "AE",
       "notes": "",
-      "date": "2025-03-17T17:52:41.652Z",
+      "date": "2025-03-17T19:13:21.108Z",
       "position": {
-        "lat": "29.917299756795966",
-        "lng": "30.574951171875004"
+        "lat": "24.95368985917014",
+        "lng": "55.70068359375"
       }
     },
     {
-      "id": "da1e",
-      "cityName": "Cairo",
-      "country": "Egypt",
-      "emoji": "EG",
+      "id": "3013",
+      "cityName": "Al Ain City",
+      "country": "United Arab Emirates (the)",
+      "emoji": "AE",
       "notes": "",
-      "date": "2025-03-17T17:52:51.687Z",
+      "date": "2025-03-17T19:14:02.200Z",
       "position": {
-        "lat": "30.033633896516235",
-        "lng": "31.533886107013476"
-      }
-    },
-    {
-      "id": "f4f9",
-      "cityName": "Markaz Bani Suwayf",
-      "country": "Egypt",
-      "emoji": "EG",
-      "notes": "",
-      "date": "2025-03-17T17:53:13.084Z",
-      "position": {
-        "lat": "29.011380615780716",
-        "lng": "31.094055175781254"
+        "lat": "24.445353518039855",
+        "lng": "55.412535057164014"
       }
     }
   ]
