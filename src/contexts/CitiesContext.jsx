@@ -29,12 +29,14 @@ function reducer(state, action) {
         ...state,
         loading: false,
         cities: [...state.cities, action.payload],
+        currentCity: action.payload,
       };
     case "delete/loaded":
       return {
         ...state,
         loading: false,
         cities: state.cities.filter((city) => city.id != action.payload),
+        currentCity: action.payload,
       };
     default:
       throw new Error("Unkwon state");
@@ -65,6 +67,8 @@ function CitiesContextProvider({ children }) {
   }, []);
 
   async function getCity(id) {
+    if (Number(id) == currentCity.id) return;
+
     dispatch({ type: "loading" });
     try {
       const res = await fetch(`${Base_URL}/cities/${id}`);
